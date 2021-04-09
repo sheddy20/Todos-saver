@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962205328930",
+    "project_id": "socialape-f267a",
+    "storage_bucket": "socialape-f267a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962205328930:android:7f354e5caf172f2eb78c7b",
+        "android_client_info": {
+          "package_name": "com.example.socialape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962205328930-q6k03t296i4gebi5ospk5bln83it7ils.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialape",
+            "certificate_hash": "edc72ad79a667d07b7d615d6805e2bb3b9dff835"
+          }
+        },
+        {
+          "client_id": "962205328930-3kat1pl00s68na4vinbso6b8k2r1gi0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70Tq-Ri7iT6srYWL9uyv6Kq6rJMBiDww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962205328930-3kat1pl00s68na4vinbso6b8k2r1gi0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
